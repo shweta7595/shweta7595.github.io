@@ -326,8 +326,8 @@ img {
 }
 
 #skill {
-  background-color: #7f53ac;
-  background-image: linear-gradient(315deg, #7f53ac 0%, #647dee 74%);
+  background-color: #4f3427;
+  background-image: linear-gradient(315deg, #c26d12 0%, #dda31b 74%);
 }
 
 #skill .skill--content {
@@ -450,7 +450,7 @@ img {
 }
 
 #service .service--content .item p {
-  font-style: italic;
+  font-style: normal;
   display: block;
   margin-bottom: 30px;
   text-shadow: 0 1px 2px #222;
