@@ -326,8 +326,8 @@ img {
 }
 
 #skill {
-  background-color: #4f3427;
-  background-image: linear-gradient(315deg, #c26d12 0%, #dda31b 74%);
+  background-color: #eddfd8;
+  background-image: linear-gradient(315deg, #e0dbd6 0%, #dda31b 74%);
 }
 
 #skill .skill--content {
